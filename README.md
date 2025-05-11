@@ -1,4 +1,4 @@
-# Microsoft-Azure - Localização de serviços
+# Microsoft-Azure - Localização de serviços por categoria
 
   Por meio do laboratório “Localizando Serviços por Categorias”, do curso “Bradesco - Java Cloud Native” da DIO, no módulo de Cloud, é possível compreender os principais aspectos da interface de utilização do Microsoft Azure e os serviços disponibilizados.
   
